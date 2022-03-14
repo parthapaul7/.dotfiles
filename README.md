@@ -1,5 +1,7 @@
 # .dotfiles
 
 
-** link files**
-`ln -s originalfilelocation  linkfilelocationwithname`
+**Link files**
+
+
+`$ ln -s originalfilelocation  linkfilelocationwithname`
